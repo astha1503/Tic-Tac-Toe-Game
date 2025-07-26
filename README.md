@@ -4,6 +4,8 @@ A simple and interactive web-based Tic-Tac-Toe game built using **HTML**, **CSS*
 
 <img width="1920" height="1080" alt="Screenshot (41)" src="https://github.com/user-attachments/assets/e1286f8e-d199-4c9c-a261-20bc41d2ca22" />
 
+---
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=for-the-badge&logo=github)](https://astha1503.github.io/Tic-Tac-Toe-Game/)
 
 ---
 
