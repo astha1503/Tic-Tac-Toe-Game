@@ -28,8 +28,11 @@ A simple and interactive web-based Tic-Tac-Toe game built using **HTML**, **CSS*
 ## 📂 Project Structure
 
 ├── index.html # Main HTML page
+
 ├── style.css # CSS for styling
+
 ├── app.js # JavaScript for game logic
+
 ├── ticTacToe.jpg # Favicon / game image
 
 ---
