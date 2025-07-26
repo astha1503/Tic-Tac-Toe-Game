@@ -40,4 +40,5 @@ A simple and interactive web-based Tic-Tac-Toe game built using **HTML**, **CSS*
 ---
 
 Made by Astha
+
 This project was created as a fun way to practice JavaScript and web development basics.
